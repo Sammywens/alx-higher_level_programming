@@ -68,4 +68,8 @@ File|Task
 [106-line2.txt ](./106-line2.txt ) | How many string objects are created by the execution of the second line of the given script
 
 ## Author
+<<<<<<< HEAD
  Joel Paul
+=======
+ Samuel Nwene
+>>>>>>> b9f3504e87ff22402f380d53a5dead26af4f37ba
