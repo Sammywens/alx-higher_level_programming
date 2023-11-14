@@ -3,7 +3,7 @@
 
  Tasks involved writing various introductory-level JavaScript scripts on Node.js.
 
-## Git-hub repo: www.github.com/Jaaystones/0x12-javascript-warm_up
+## Git-hub repo: www.github.com/Sammywens/0x12-javascript-warm_up
 
 ## Function Prototypes :floppy_disk:
 
